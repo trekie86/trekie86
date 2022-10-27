@@ -7,3 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I brew my own beer, cider, and mead
 
+<img src="https://github-readme-stats.vercel.app/api?username=trekie86&count_private=true&show_icons=true&include_all_commits=true"/>
