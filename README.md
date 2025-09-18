@@ -7,6 +7,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I brew my own beer, cider, and mead
 
-<img src="https://github-readme-stats-trekie86s-projects.vercel.app/api?username=trekie86&show_icons=true&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=trekie86&show_icons=true&theme=gotham" alt="GitHub Stats" />
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/trekie86/langs)](https://githubtrends.io)
